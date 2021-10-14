@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SFML.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\khanittha\Downloads\sfml\SFMLtemplate-master\Main.cpp(14,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\khanittha\Downloads\sfml\SFMLtemplate-master\Main.cpp(27,101): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\khanittha\Downloads\sfml\SFMLtemplate-master\Main.cpp(27,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\khanittha\Downloads\sfml\SFMLtemplate-master\Main.cpp(30,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\khanittha\Downloads\sfml\SFMLtemplate-master\Main.cpp(38,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\khanittha\Downloads\sfml\SFMLtemplate-master\Main.cpp(53,107): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\khanittha\Downloads\sfml\SFMLtemplate-master\Main.cpp(54,108): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\khanittha\Downloads\sfml\SFMLtemplate-master\Main.cpp(55,108): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\khanittha\Downloads\sfml\SFMLtemplate-master\Main.cpp(56,109): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\khanittha\Downloads\sfml\SFMLtemplate-master\Main.cpp(75,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\khanittha\Downloads\sfml\SFMLtemplate-master\Main.cpp(77,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\khanittha\Downloads\sfml\SFMLtemplate-master\Main.cpp(79,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\khanittha\Downloads\sfml\SFMLtemplate-master\Main.cpp(81,95): warning C4305: 'argument': truncation from 'double' to 'float'
+  SFML.vcxproj -> C:\Users\khanittha\Downloads\sfml\SFMLtemplate-master\x64\Debug\SFMLtemp.exe

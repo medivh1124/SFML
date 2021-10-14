@@ -1,0 +1,2 @@
+D:\Desktop\SFML C++\SFML\x64\Debug\SFML.exe
+C:\Users\khanittha\Downloads\sfml\SFMLtemplate-master\x64\Debug\SFMLtemp.exe
